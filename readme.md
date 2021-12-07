@@ -2,6 +2,8 @@
 
 # Cartão de Crédito com efeito Glass / Animado
 
+Demo: [https://glass-card-lovat.vercel.app/](https://glass-card-lovat.vercel.app/)
+
 ## Quer ver?
 
 Baixe o exemplo [ou clone este projeto](https://github.com/henriquezolini/glass-card.git):
