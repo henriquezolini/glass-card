@@ -1,0 +1,29 @@
+{
+  "name": "glass-card",
+  "version": "1.0.0",
+  "description": "![repo-banner](https://raw.githubusercontent.com/henriquezolini/glass-card/master/cover.gif)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquezolini/glass-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquezolini/glass-card/issues"
+  },
+  "homepage": "https://github.com/henriquezolini/glass-card#readme",
+  "dependencies": {
+    "next": "^12.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vanilla-tilt": "^1.7.2"
+  }
+}
