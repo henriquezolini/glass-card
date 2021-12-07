@@ -1,6 +1,6 @@
 ![repo-banner](https://raw.githubusercontent.com/henriquezolini/glass-card/master/cover.gif)
 
-# Cartão de Crédito com Glass Effect / Animado
+# Cartão de Crédito com efeito Glass / Animado
 
 ## Quer ver?
 
